@@ -22,12 +22,7 @@ Hey there! My name is Lucrecia.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
 Main commands available:
- - /start: start the bot
- - /help: PM's you this message.
- - /help <module name>: PM's you info about that module.
-
-
-All commands can either be used with / or !.
+No one gonna help you🤣🤣.
 
 And the following:
 
@@ -41,7 +36,10 @@ Hello! my name *{}*.
 
 *Main* available commands:
  - /start: Start the bot...
+
  - /help: help....
+
+  മച്ചാനെ ഇത് പോരെ അളിയാ.....😄
 
 {}
 And the following:
