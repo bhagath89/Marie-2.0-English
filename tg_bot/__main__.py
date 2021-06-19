@@ -18,16 +18,18 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+Hey there! My name is Lucrecia.
+I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+Main commands available:
+ - /start: start the bot
+ - /help: PM's you this message.
+ - /help <module name>: PM's you info about that module.
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+All commands can either be used with / or !.
 
-For more commands click /help...
+And the following:
 
 **Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 
@@ -40,10 +42,6 @@ Hello! my name *{}*.
 *Main* available commands:
  - /start: Start the bot...
  - /help: help....
- - /donate: To find out more about donating!
- - /settings:
-   - in PM: To find out what SETTINGS you have set....
-   - in a group:
 
 {}
 And the following:
