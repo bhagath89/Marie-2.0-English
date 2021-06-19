@@ -18,15 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey there! My name is Lucrecia.
-I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
-
-Main commands available:
-No one gonna help you🤣🤣.
-
-And the following:
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+No one gonna help you🤣🤣..**
 
 """
 
