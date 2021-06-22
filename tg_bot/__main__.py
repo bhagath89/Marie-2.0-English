@@ -31,8 +31,9 @@ Hello! my name *{}*.
 
  - /help: help....
 
-  മച്ചാനെ ഇത് പോരെ അളിയാ...😄
-
+ -മച്ചാനെ ഇത് പോരെ അളിയാ...😄
+ 
+ - Join @FlyingKILI
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
